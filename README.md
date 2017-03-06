@@ -5,4 +5,4 @@ Primer proyecto para la materia de Algoritmos y Estructura de Datos de la Facult
 
 Compilar con gcc.
 
-Para ejecutar, pasar el nombre del ejecutable seguido de el nombre del archivo que contiene el laberinto, seguido de las coordenadas (en formato de arreglo bidimensional) del punto donde quiera iniciar.
+Para ejecutar, escribir en consola el nombre del ejecutable seguido de el nombre del archivo que contiene el laberinto, seguido de las coordenadas (en formato de arreglo bidimensional) del punto donde quiera iniciar.
